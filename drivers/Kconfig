@@ -216,4 +216,7 @@ source "drivers/debug/Kconfig"
 
 source "drivers/motor/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu

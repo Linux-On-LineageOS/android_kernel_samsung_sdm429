@@ -187,3 +187,4 @@ obj-y				+= debug/
 
 # CONFIG_SS_VIBRATOR
 obj-y				+= motor/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
